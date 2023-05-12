@@ -1,0 +1,401 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Grocery_List
+</name>
+</assembly>
+<members>
+<member name="T:Grocery_List.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Grocery_List.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Grocery_List.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Grocery_List.My.Resources.Resources._21593536b42ac07bba99272748ac0f7c_f69aca4a_c60b_4105_a6e6_78bacdbe52d3_540x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Grocery_List.My.Resources.Resources._2GOExpress">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Grocery_List.My.Resources.Resources._4214d07a86222f3315561369433c6f37_7def350d_3cbd_4724_9f6d_3dc090068291_540x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Grocery_List.My.Resources.Resources._93634">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Grocery_List.My.Resources.Resources.AjinomotoMSG16oz_front_540x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Grocery_List.My.Resources.Resources.AjishimaRiceSeasoning_SalmonFurikake1_7oz_front_540x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Grocery_List.My.Resources.Resources.ArgentinaLuncheonMeat12ozFRONT_540x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Grocery_List.My.Resources.Resources.C2GreenTea_Apple16_9ozfront_540x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Grocery_List.My.Resources.Resources.CalbeeFruitGranolaCereal_ChocolateCrunch_BananaFlavor15oz_front_540x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Grocery_List.My.Resources.Resources.CalbeeKettleChips_LightlySalted5_29oz_150g__front_1024x1024_2x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Grocery_List.My.Resources.Resources.Century_Tuna_Flakes_in_Oil_FRONT_540x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Grocery_List.My.Resources.Resources.ChikyuUmaJapaneseStyleSlicedSushiGinger_White_12oz_front_540x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Grocery_List.My.Resources.Resources.d_76185d6a_6acc_47f0_80f0_276454229fbc_540x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Grocery_List.My.Resources.Resources.D_PlusBakedWheatCake_CoffeeFlavor2_82oz_80g__front_540x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Grocery_List.My.Resources.Resources.Datu_Puti_Pinoy_Spiced_Coconut__Tuba__Vinegar_Front_540x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Grocery_List.My.Resources.Resources.DelMonte100_PineappleJuice33_8oz_front_540x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Grocery_List.My.Resources.Resources.DHL_Express">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Grocery_List.My.Resources.Resources.DonaMariaJasponicaWhiteRice70_54oz_front_540x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Grocery_List.My.Resources.Resources.Fibisco_Choco_Crunchies_cd795079_047f_4923_a2a4_2e933e388bcb_540x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Grocery_List.My.Resources.Resources.GenkiForestSugar_FreeSparklingWater_WhitePeachFlavor16_23oz_480ml_____16_23oz_480ml__front_540x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Grocery_List.My.Resources.Resources.icons8_add_shopping_cart_90">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Grocery_List.My.Resources.Resources.icons8_exit_90">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Grocery_List.My.Resources.Resources.icons8_help_90">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Grocery_List.My.Resources.Resources.icons8_help_901">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Grocery_List.My.Resources.Resources.icons8_help_902">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Grocery_List.My.Resources.Resources.icons8_more_info_90">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Grocery_List.My.Resources.Resources.icons8_truck_90">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Grocery_List.My.Resources.Resources.ITOENMatchaLoveEnergy_Soothe8_28oz_front_540x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Grocery_List.My.Resources.Resources.J_BasketCreamyMisoDressing12oz_front_540x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Grocery_List.My.Resources.Resources.J_BasketSushiWasabiPowder0_88oz_front_540x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Grocery_List.My.Resources.Resources.J_T_Express">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Grocery_List.My.Resources.Resources.JacknJill_Cheese_PotatoCrisps_9b2ad34e_8d09_492f_9149_e8e5b12bcacc_540x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Grocery_List.My.Resources.Resources.JacknJill_Chicharrow_Ni_mang_juan_0bcb323c_a18d_48fb_bdd7_ad847d72689c_540x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Grocery_List.My.Resources.Resources.JacknJill_Nacho_Cheese_Corn_Chips_bb0d0af5_2068_4166_bbe8_bbbfc8f928de_1024x1024_2x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Grocery_List.My.Resources.Resources.JRS_Express">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Grocery_List.My.Resources.Resources.KikkomanNoodleKitwithSauce_BlackPepperFlavor4_8oz_front_540x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Grocery_List.My.Resources.Resources.KiminoRingoSparklingJuice8_45oz_front_540x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Grocery_List.My.Resources.Resources.KiminoYuzuSparklingWater8_45oz_front_540x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Grocery_List.My.Resources.Resources.KnorrTamarindWithGabiPhilippines0_78oz_front_540x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Grocery_List.My.Resources.Resources.Kopiko_3_In_1_Coffee_Brown___Creamy__30Packs__Front_0b1c4458_2a4f_4d14_9a4e_6192932844c8_540x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Grocery_List.My.Resources.Resources.KSK_BoyBawangCornick_Galic_12fd19d9_e5a1_4997_b3c9_eb316782de48_540x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Grocery_List.My.Resources.Resources.Ladys_Choice_Sandwich_Spread_15oz_FRONT_761345ae_c8ed_4f37_b102_154c2a4ee06b_540x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Grocery_List.My.Resources.Resources.LBC_Express">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Grocery_List.My.Resources.Resources.LotteCrunkyCrunchChocolate1_58oz_45g__front_540x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Grocery_List.My.Resources.Resources.LuciaAssortedPastillas5_25oz_front_540x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Grocery_List.My.Resources.Resources.Lucky_Me_Supreme_Bulalo_FRONT_8c2e7c74_8192_4c9a_87e8_461073421d73_540x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Grocery_List.My.Resources.Resources.LuckyMe_Beef_Mami_47dd6d92_fe84_4028_a10b_c86296b6fd49_540x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Grocery_List.My.Resources.Resources.LuckyMe_Citrus_21de2b73_5169_4121_882e_cc15af6cb7e2_540x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Grocery_List.My.Resources.Resources.LuckyMePancitCantonChilimansi2_29oz_Front_fa5b3c02_7631_465a_bcf8_3d9f8510513e_540x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Grocery_List.My.Resources.Resources.LuckyMePancitCantonChilimansi21">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Grocery_List.My.Resources.Resources.Maeda_enMatchaGreenTeaPowder1oz_front_540x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Grocery_List.My.Resources.Resources.MagnoliaStarMargarineClassique8_82oz_front_540x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Grocery_List.My.Resources.Resources.MamaSita_sChamporadoRiceandCacaoPorridgeKit9_52oz_front_540x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Grocery_List.My.Resources.Resources.Mang_Tomas_All_Purpose_Sauce_19_4oz_Front_20a0c115_2139_432d_9736_5a8b0491f9eb_540x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Grocery_List.My.Resources.Resources.MaruichiIsoyakiHotategai_SeasonedScallop1_69oz_48g__front_540x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Grocery_List.My.Resources.Resources.MarukanRiceVinegar_SweetandTangyFlavor12oz_front_540x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Grocery_List.My.Resources.Resources.McCormickVanillaFlavorExtract0_68oz_20ml__front_540x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Grocery_List.My.Resources.Resources.Meiji_af2ff121_8aeb_4997_9a5e_b79cf4267103_540x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Grocery_List.My.Resources.Resources.MyojoIppei_ChanYomise_no_YakisobaOrientalFlavorwithMayonnaise4_58oz_front_540x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Grocery_List.My.Resources.Resources.NinjaVan">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Grocery_List.My.Resources.Resources.NishikiPremiumGradeRice32oz_front_540x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Grocery_List.My.Resources.Resources.NissinDemaeRamenNoodle_SpicyFlavor3_5oz_front_540x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Grocery_List.My.Resources.Resources.Royal_Tru_Orange_Can_FRONT_f0825594_b9c4_4c1e_b7bf_8fd64e390f81_540x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Grocery_List.My.Resources.Resources.SB_GoldenCurry_Sauce_with_Vegetables_Hot_Box_9d6afb44_5b66_4c62_9179_05b9c3e44a3b_540x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Grocery_List.My.Resources.Resources.SB_Wasabi_88c33bc9_8512_4e03_b5a1_40ee78b6ddbb_540x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Grocery_List.My.Resources.Resources.SB_Wasabi_Sauce_04715382_e2c7_4e98_a9f7_da1374a3813a_540x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Grocery_List.My.Resources.Resources.Shirakiku_Japanese_Bread_Crumbs_20f841b7_5bdf_4179_b12f_db923d101fd7_540x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Grocery_List.My.Resources.Resources.ShirakikuRoastedBlackSesameSeed8_5oz_front_540x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Grocery_List.My.Resources.Resources.shopping_cart_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Grocery_List.My.Resources.Resources.SuntoryBOSSCoffee_ColdBlackCoffee8oz_front_540x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Grocery_List.My.Resources.Resources.SuntoryBOSSCoffee_ColdBlackCoffee8oz_front_540x1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Grocery_List.My.Resources.Resources.Super_Q_Golden_Bihon_Front_976c03a8_fe96_4988_9803_bc963bb8f1d8_540x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Grocery_List.My.Resources.Resources.Super_Q_Golden_Bihon_Front_976c03a8_fe96_4988_9803_bc963bb8f1d8_540x1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Grocery_List.My.Resources.Resources.UFCBananaKetchupHot19oz_FRONT_540x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Grocery_List.My.Resources.Resources.WhiteKingHotcakeMix_CreamyClassic14_1oz_front_540x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

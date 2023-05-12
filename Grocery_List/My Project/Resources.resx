@@ -1,0 +1,346 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="93634" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\93634.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="KiminoRingoSparklingJuice8.45oz_front_540x" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\Drinks\KiminoRingoSparklingJuice8.45oz_front_540x.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Century-Tuna-Flakes-in-Oil_FRONT_540x" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\Canned and Bottled\Century-Tuna-Flakes-in-Oil_FRONT_540x.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="KnorrTamarindWithGabiPhilippines0.78oz_front_540x" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\Sauces and Seasonings\KnorrTamarindWithGabiPhilippines0.78oz_front_540x.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="d_76185d6a-6acc-47f0-80f0-276454229fbc_540x" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\d_76185d6a-6acc-47f0-80f0-276454229fbc_540x.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LuciaAssortedPastillas5.25oz_front_540x" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\LuciaAssortedPastillas5.25oz_front_540x.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ArgentinaLuncheonMeat12ozFRONT_540x" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\Canned and Bottled\ArgentinaLuncheonMeat12ozFRONT_540x.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="DHL_Express" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\Deliveries Express\DHL_Express.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CalbeeKettleChips-LightlySalted5.29oz_150g__front_1024x1024@2x" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\CalbeeKettleChips-LightlySalted5.29oz_150g__front_1024x1024@2x.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Royal-Tru-Orange-Can_FRONT_f0825594-b9c4-4c1e-b7bf-8fd64e390f81_540x" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\Drinks\Royal-Tru-Orange-Can_FRONT_f0825594-b9c4-4c1e-b7bf-8fd64e390f81_540x.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LBC_Express" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\Deliveries Express\LBC_Express.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ChikyuUmaJapaneseStyleSlicedSushiGinger_White_12oz_front_540x" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\Canned and Bottled\ChikyuUmaJapaneseStyleSlicedSushiGinger_White_12oz_front_540x.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="AjishimaRiceSeasoning-SalmonFurikake1.7oz_front_540x" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\Sauces and Seasonings\AjishimaRiceSeasoning-SalmonFurikake1.7oz_front_540x.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="KikkomanNoodleKitwithSauce-BlackPepperFlavor4.8oz_front_540x" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\Noodles\KikkomanNoodleKitwithSauce-BlackPepperFlavor4.8oz_front_540x.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="C2GreenTea-Apple16.9ozfront_540x" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\Drinks\C2GreenTea-Apple16.9ozfront_540x.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CalbeeFruitGranolaCereal-ChocolateCrunch_BananaFlavor15oz_front_540x" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\Rice and Grain\CalbeeFruitGranolaCereal-ChocolateCrunch_BananaFlavor15oz_front_540x.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="McCormickVanillaFlavorExtract0.68oz_20ml__front_540x" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\Canned and Bottled\McCormickVanillaFlavorExtract0.68oz_20ml__front_540x.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="NishikiPremiumGradeRice32oz_front_540x" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\Rice and Grain\NishikiPremiumGradeRice32oz_front_540x.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SB_Wasabi_Sauce_04715382-e2c7-4e98-a9f7-da1374a3813a_540x" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\Sauces and Seasonings\SB_Wasabi_Sauce_04715382-e2c7-4e98-a9f7-da1374a3813a_540x.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MarukanRiceVinegar-SweetandTangyFlavor12oz_front_540x" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\Canned and Bottled\MarukanRiceVinegar-SweetandTangyFlavor12oz_front_540x.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MyojoIppei-ChanYomise-no-YakisobaOrientalFlavorwithMayonnaise4.58oz_front_540x" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\Noodles\MyojoIppei-ChanYomise-no-YakisobaOrientalFlavorwithMayonnaise4.58oz_front_540x.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LuckyMePancitCantonChilimansi21" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\Noodles\LuckyMePancitCantonChilimansi2.29oz_Front_fa5b3c02-7631-465a-bcf8-3d9f8510513e_540x.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="2GOExpress" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\Deliveries Express\2GOExpress.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="DelMonte100_PineappleJuice33.8oz_front_540x" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\Drinks\DelMonte100_PineappleJuice33.8oz_front_540x.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Shirakiku_Japanese_Bread_Crumbs_20f841b7-5bdf-4179-b12f-db923d101fd7_540x" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\Rice and Grain\Shirakiku_Japanese_Bread_Crumbs_20f841b7-5bdf-4179-b12f-db923d101fd7_540x.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SB_GoldenCurry_Sauce_with_Vegetables_Hot_Box_9d6afb44-5b66-4c62-9179-05b9c3e44a3b_540x" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\Sauces and Seasonings\SB_GoldenCurry_Sauce_with_Vegetables_Hot_Box_9d6afb44-5b66-4c62-9179-05b9c3e44a3b_540x.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Lucky-Me-Supreme-Bulalo_FRONT_8c2e7c74-8192-4c9a-87e8-461073421d73_540x" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\Noodles\Lucky-Me-Supreme-Bulalo_FRONT_8c2e7c74-8192-4c9a-87e8-461073421d73_540x.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LotteCrunkyCrunchChocolate1.58oz_45g__front_540x" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\LotteCrunkyCrunchChocolate1.58oz_45g__front_540x.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MaruichiIsoyakiHotategai-SeasonedScallop1.69oz_48g__front_540x" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\MaruichiIsoyakiHotategai-SeasonedScallop1.69oz_48g__front_540x.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8-truck-90" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\Main\icons8-truck-90.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="D-PlusBakedWheatCake-CoffeeFlavor2.82oz_80g__front_540x" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\D-PlusBakedWheatCake-CoffeeFlavor2.82oz_80g__front_540x.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Maeda-enMatchaGreenTeaPowder1oz_front_540x" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\Drinks\Maeda-enMatchaGreenTeaPowder1oz_front_540x.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LuckyMe_Beef_Mami_47dd6d92-fe84-4028-a10b-c86296b6fd49_540x" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\Noodles\LuckyMe_Beef_Mami_47dd6d92-fe84-4028-a10b-c86296b6fd49_540x.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MamaSita_sChamporadoRiceandCacaoPorridgeKit9.52oz_front_540x" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\Rice and Grain\MamaSita_sChamporadoRiceandCacaoPorridgeKit9.52oz_front_540x.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="KSK_BoyBawangCornick_Galic_12fd19d9-e5a1-4997-b3c9-eb316782de48_540x" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\KSK_BoyBawangCornick_Galic_12fd19d9-e5a1-4997-b3c9-eb316782de48_540x.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Kopiko-3-In-1-Coffee-Brown-_-Creamy-_30Packs__Front_0b1c4458-2a4f-4d14-9a4e-6192932844c8_540x" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\Drinks\Kopiko-3-In-1-Coffee-Brown-_-Creamy-_30Packs__Front_0b1c4458-2a4f-4d14-9a4e-6192932844c8_540x.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="AjinomotoMSG16oz_front_540x" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\Sauces and Seasonings\AjinomotoMSG16oz_front_540x.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8-more-info-90" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\Main\icons8-more-info-90.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8-add-shopping-cart-90" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\Main\icons8-add-shopping-cart-90.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="shopping_cart_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\shopping_cart_.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Fibisco_Choco_Crunchies_cd795079-047f-4923-a2a4-2e933e388bcb_540x" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\Fibisco_Choco_Crunchies_cd795079-047f-4923-a2a4-2e933e388bcb_540x.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Super-Q-Golden-Bihon_Front_976c03a8-fe96-4988-9803-bc963bb8f1d8_540x" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\Noodles\Super-Q-Golden-Bihon_Front_976c03a8-fe96-4988-9803-bc963bb8f1d8_540x.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ITOENMatchaLoveEnergy_Soothe8.28oz_front_540x" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\Drinks\ITOENMatchaLoveEnergy_Soothe8.28oz_front_540x.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LuckyMePancitCantonChilimansi2.29oz_Front_fa5b3c02-7631-465a-bcf8-3d9f8510513e_540x" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\Noodles\LuckyMePancitCantonChilimansi2.29oz_Front_fa5b3c02-7631-465a-bcf8-3d9f8510513e_540x.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="4214d07a86222f3315561369433c6f37_7def350d-3cbd-4724-9f6d-3dc090068291_540x" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\Noodles\4214d07a86222f3315561369433c6f37_7def350d-3cbd-4724-9f6d-3dc090068291_540x.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Mang_Tomas_All_Purpose_Sauce_19.4oz_Front_20a0c115-2139-432d-9736-5a8b0491f9eb_540x" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\Sauces and Seasonings\Mang_Tomas_All_Purpose_Sauce_19.4oz_Front_20a0c115-2139-432d-9736-5a8b0491f9eb_540x.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SB_Wasabi_88c33bc9-8512-4e03-b5a1-40ee78b6ddbb_540x" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\Sauces and Seasonings\SB_Wasabi_88c33bc9-8512-4e03-b5a1-40ee78b6ddbb_540x.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8-exit-90" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\Main\icons8-exit-90.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WhiteKingHotcakeMix-CreamyClassic14.1oz_front_540x" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\Rice and Grain\WhiteKingHotcakeMix-CreamyClassic14.1oz_front_540x.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="NinjaVan" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\Deliveries Express\NinjaVan.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="21593536b42ac07bba99272748ac0f7c_f69aca4a-c60b-4105-a6e6-78bacdbe52d3_540x" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\Noodles\21593536b42ac07bba99272748ac0f7c_f69aca4a-c60b-4105-a6e6-78bacdbe52d3_540x.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MagnoliaStarMargarineClassique8.82oz_front_540x" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\Sauces and Seasonings\MagnoliaStarMargarineClassique8.82oz_front_540x.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="DonaMariaJasponicaWhiteRice70.54oz_front_540x" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\Rice and Grain\DonaMariaJasponicaWhiteRice70.54oz_front_540x.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ladys-Choice-Sandwich-Spread-15oz_FRONT_761345ae-c8ed-4f37-b102-154c2a4ee06b_540x" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\Canned and Bottled\Ladys-Choice-Sandwich-Spread-15oz_FRONT_761345ae-c8ed-4f37-b102-154c2a4ee06b_540x.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="JacknJill_Nacho_Cheese_Corn_Chips_bb0d0af5-2068-4166-bbe8-bbbfc8f928de_1024x1024@2x" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\JacknJill_Nacho_Cheese_Corn_Chips_bb0d0af5-2068-4166-bbe8-bbbfc8f928de_1024x1024@2x.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SuntoryBOSSCoffee-ColdBlackCoffee8oz_front_540x" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\Drinks\SuntoryBOSSCoffee-ColdBlackCoffee8oz_front_540x.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LuckyMe_Citrus_21de2b73-5169-4121-882e-cc15af6cb7e2_540x" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\Noodles\LuckyMe_Citrus_21de2b73-5169-4121-882e-cc15af6cb7e2_540x.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="J-BasketSushiWasabiPowder0.88oz_front_540x" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\Canned and Bottled\J-BasketSushiWasabiPowder0.88oz_front_540x.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UFCBananaKetchupHot19oz_FRONT_540x" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\Sauces and Seasonings\UFCBananaKetchupHot19oz_FRONT_540x.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Meiji_af2ff121-8aeb-4997-9a5e-b79cf4267103_540x" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\Meiji_af2ff121-8aeb-4997-9a5e-b79cf4267103_540x.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="KiminoYuzuSparklingWater8.45oz_front_540x" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\Drinks\KiminoYuzuSparklingWater8.45oz_front_540x.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Super-Q-Golden-Bihon_Front_976c03a8-fe96-4988-9803-bc963bb8f1d8_540x1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\Noodles\Super-Q-Golden-Bihon_Front_976c03a8-fe96-4988-9803-bc963bb8f1d8_540x.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="J-BasketCreamyMisoDressing12oz_front_540x" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\Canned and Bottled\J-BasketCreamyMisoDressing12oz_front_540x.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="JRS_Express" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\Deliveries Express\JRS_Express.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8-help-90" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\Main\icons8-help-90.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SuntoryBOSSCoffee-ColdBlackCoffee8oz_front_540x1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\Drinks\SuntoryBOSSCoffee-ColdBlackCoffee8oz_front_540x.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ShirakikuRoastedBlackSesameSeed8.5oz_front_540x" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\Rice and Grain\ShirakikuRoastedBlackSesameSeed8.5oz_front_540x.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Datu-Puti-Pinoy-Spiced-Coconut-_Tuba_-Vinegar_Front_540x" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\Sauces and Seasonings\Datu-Puti-Pinoy-Spiced-Coconut-_Tuba_-Vinegar_Front_540x.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="J_T_Express" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\Deliveries Express\J_T_Express.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="JacknJill_Cheese_PotatoCrisps_9b2ad34e-8d09-492f-9149-e8e5b12bcacc_540x" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\JacknJill_Cheese_PotatoCrisps_9b2ad34e-8d09-492f-9149-e8e5b12bcacc_540x.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="NissinDemaeRamenNoodle-SpicyFlavor3.5oz_front_540x" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\Noodles\NissinDemaeRamenNoodle-SpicyFlavor3.5oz_front_540x.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="GenkiForestSugar-FreeSparklingWater-WhitePeachFlavor16.23oz_480ml_-_-_16.23oz_480ml__front_540x" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\Drinks\GenkiForestSugar-FreeSparklingWater-WhitePeachFlavor16.23oz_480ml_-_-_16.23oz_480ml__front_540x.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="JacknJill_Chicharrow_Ni_mang_juan_0bcb323c-a18d-48fb-bdd7-ad847d72689c_540x" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\JacknJill_Chicharrow_Ni_mang_juan_0bcb323c-a18d-48fb-bdd7-ad847d72689c_540x.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8-help-901" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\Main\icons8-help-90.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8-help-902" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\Main\icons8-help-90.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+</root>
